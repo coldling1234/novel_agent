@@ -11,6 +11,7 @@ def main() -> None:
     print("3. 故事生成：python generate_story.py")
   
     print("这是其中一个测试")
+    print("第二个测试")
 
 
 if __name__ == "__main__":
