@@ -1,0 +1,12 @@
+﻿.env
+output/
+__pycache__/
+*.pyc
+.idea/
+inspectionProfiles/
+misc.xml
+modules.xml
+novel_ai.iml
+workspace.xml
+resume_render/
+followup_outlines/
