@@ -12,6 +12,7 @@ def main() -> None:
   
     print("这是其中一个测试")
     print("第二个测试")
+    print("第三个测试")
 
 
 if __name__ == "__main__":
